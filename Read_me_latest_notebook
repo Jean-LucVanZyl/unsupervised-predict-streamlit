@@ -1,0 +1,8 @@
+The data needs to be added to git as folder for the jupyter notebook to read so Ali doesn't need to have it his side. When working with it use the datafiles on local device quickly going to have dinner lol love you all who the best you da best :)
+Made a note on the latest commit of the notebook, Pearl's heatmap and distribution plot not yet included.
+PS
+Naming convention for the datasets are the name underscore df.
+
+For example
+movies_df
+train_df
